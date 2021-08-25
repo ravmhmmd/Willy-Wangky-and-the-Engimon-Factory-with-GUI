@@ -1,0 +1,3 @@
+8 2 false alip watermon,aer,11,1,default-default,default-default,airMancur_100_1_Water,3,1,0,9999,false,false,false,Water/groundmon,agung,8,3,default-default,default-default,azabKubur_100_1_Ground,2,2,100,9999,true,false,false,Ground airMancur_100_1_Water groundmon,agung,8,3,default-default,default-default,azabKubur_100_1_Ground,2,2,100,9999,true,false,false,Ground
+19 10
+watergroundmon default 8 1 default-default default-default tanahBecek_100_1_Ground 1 3 100 9999 false true false Water-Ground

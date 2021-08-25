@@ -1,0 +1,17 @@
+7 0 false a firemon,a,8,0,default-default,default-default,RisingScorchingSun_105_1_Fire,3,1,0,9999,true,false,false,Fire - firemon,a,8,0,default-default,default-default,RisingScorchingSun_105_1_Fire,3,1,0,9999,true,false,false,Fire
+10 10
+12
+11
+- - - - - - o o o o o o
+- - - - - - o o o o o o
+- - - - - - o o o o o o
+- - - - - - - - - - - -
+^ ^ ^ ^ ^ ^ - - - - - -
+^ ^ ^ ^ ^ ^ - - - - - -
+^ ^ ^ ^ ^ ^ - - - - - -
+- - - - - - - - - - - -
+- - - - - - * * * * * *
+- - - - - - * * * * * *
+- - - - - - * * * * * *
+fireelectricmon default 0 5 default-default default-default petiryangberapi_100_1_Electric 1 1 0 9999 false true false Fire-Electric
+watericemon default 8 9 default-default default-default WaterLilyBodhisattva_200_1_Ice 1 1 0 9999 false true false Water-Ice
